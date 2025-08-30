@@ -3,3 +3,4 @@ This is  a repo to learn the basics of Git and GitHub from ApnaCollege
 
 This is the quadractic formula:
 $$x=\frac{-b \pm \sqrt{b^2-4ac}}{2a}$$
+Solutions can be of 2 major types: Real and Imaginary
